@@ -45,9 +45,11 @@ a{
 }
 .second-dib{
   width: 40%;
+  padding: 3%;
   margin-left: 5%;
   margin-right: 5%;
   box-shadow: 10px 10px 40px rgb(8, 41, 22);
+  border-radius: 10px;
   
 }
 #shadow{
@@ -69,6 +71,6 @@ a{
     background-repeat: no-repeat;
     background-position: left;
   }
-  footer{
+  footer p{
     text-align: center;
   }
