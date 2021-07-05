@@ -13,14 +13,14 @@ body{
   
   
 }
-.prothom-sector{
+.prothom-dib{
   width: 50%;
   padding: 20px;
   
   
   
 }
-.prothom-sector img{
+.prothom-dib img{
   width: 70%;
   
 }
@@ -38,3 +38,37 @@ a{
   background-position: right;
 
 }
+.express-sector{
+  display: flex;
+  
+  
+}
+.second-dib{
+  width: 40%;
+  margin-left: 5%;
+  margin-right: 5%;
+  box-shadow: 10px 10px 40px rgb(8, 41, 22);
+  
+}
+#shadow{
+  
+  border-left: 7px solid;
+  border-image: linear-gradient(#ad7910, #224406) 30;
+  border-image-slice: 1;
+  
+}
+#shadowtwo{
+  
+  border-left: 7px solid;
+  border-image: linear-gradient(#05837d, #214603) 30;
+  border-image-slice: 1;
+  
+  }
+  .ex-backgound{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+  }
+  footer{
+    text-align: center;
+  }
