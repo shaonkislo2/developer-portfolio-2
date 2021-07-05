@@ -1,6 +1,40 @@
+body{
+  font-family: 'Poppins', sans-serif;
+  margin: 0%;
+}
+
 .name-color{
   color: rgb(218, 102, 102);
 }
-section{
-  flex: ;
+.first-sector{
+  display: flex;
+  background-image: url(images/exp-bg.png);
+  background-repeat: no-repeat;
+  
+  
+}
+.prothom-sector{
+  width: 50%;
+  padding: 20px;
+  
+  
+  
+}
+.prothom-sector img{
+  width: 70%;
+  
+}
+a{
+  text-decoration: none;
+  background-color: rgb(189, 129, 51);
+  padding: 10px 40px;
+  font-weight: 700;
+  border-radius: 80px;
+}
+.second-sector{
+  display: flex;
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+
 }
